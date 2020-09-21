@@ -1,0 +1,13 @@
+ionic cap build android
+ionic cap copy android
+ionic cap open android
+
+
+/// para iconos y splash
+cordova-res android --skip-config --copy
+
+ionic build
+ionic capacitor add
+ionic cordova prepare
+cordova-res android --skip-config --copy
+ionic capacitor build android

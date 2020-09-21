@@ -1,0 +1,13 @@
+.icon {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+.alertCancel {
+  --background: red;
+}
+.alertButton {
+  background-color: white !important;
+  bottom: floor($number: 1);
+}

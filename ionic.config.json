@@ -1,7 +1,0 @@
-{
-  "name": "fandrade-pps",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}

@@ -1,0 +1,11 @@
+{
+    "appId": "alarma.robo",
+    "appName": "fandrade-pps",
+    "bundledWebRuntime": false,
+    "npmClient": "npm",
+    "webDir": "www",
+    "plugins": {
+
+    },
+    "cordova": {}
+}
